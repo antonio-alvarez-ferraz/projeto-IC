@@ -8,6 +8,7 @@
 .foto {
     width: 12%;
     height: auto;
+    min-width: 200px;
     border-radius: 25px;
     align-items: center;
 }
@@ -28,9 +29,7 @@
     text-align: center;
     padding: 10px;
     bottom: 0px;
-    left: 45%;
     font-size: 15px;
-    position: absolute;
 }
 
 .NavigationBar{
